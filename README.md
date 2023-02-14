@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django, Flutter**
+- 💬 Ask me about **Django, Flutter, DSA**
 
 - 📫 How to reach me **omkarpedamkar2@gmail.com**
 
