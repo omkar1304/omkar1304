@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Pedamkar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Django, Flutter, DSA**
+- 💬 Ask me about **Django, DSA**
 
 - 📫 How to reach me **omkarpedamkar2@gmail.com**
 
