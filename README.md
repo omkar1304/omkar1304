@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **omkarpedamkar2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jKKzqAfKgk1QfhfTt-Z654Cev2G-ccs_/view?usp=drivesdk](https://drive.google.com/file/d/1jKKzqAfKgk1QfhfTt-Z654Cev2G-ccs_/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jKKzqAfKgk1QfhfTt-Z654Cev2G-ccs_/view?usp=drivesdk](https://drive.google.com/file/d/1bYDGqpYMHKAG16DeSqWSXaAjnMk6lVGq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
