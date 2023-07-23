@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Pedamkar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 💬 Ask me about **Django, DSA**
+- 💬 Ask me about **Django, React, DSA**
 
 - 📫 How to reach me **omkarpedamkar2@gmail.com**
 
