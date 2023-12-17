@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omkar Pedamkar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 💬 Ask me about **Django, React, DSA**
+- 💬 Ask me about **MERN, Next.js, DSA**
 
 - 📫 How to reach me **omkarpedamkar2@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1av-q2VXSqNtA-91nGuNABQlYcXJ2x8XM/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1UXaav3pJZ02XUjiwRb-aDJaKQL2-eZK6/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omkar-pedamkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-pedamkar" height="30" width="40" /></a>
